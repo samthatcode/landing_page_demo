@@ -6,6 +6,7 @@ html {
     font-family: Arial, sans-serif;
     color: white;
     overflow: hidden;
+    background-color: crimson;
 }
 
 .container {
